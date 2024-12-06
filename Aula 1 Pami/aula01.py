@@ -1,0 +1,6 @@
+print ('hello world❤❤')
+print ('Pami')
+print('primeiro com python')
+print('odiamos java')
+print ('erro 404')
+print ('odiamos c#, java e c++')
